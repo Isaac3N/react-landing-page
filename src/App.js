@@ -4,7 +4,7 @@ import "./App.css";
 import {
 	Footer,
 	Blog,
-	Feature,
+	Features,
 	WhatGPT3,
 	Header,
 	Possibility,
@@ -21,7 +21,7 @@ const App = () => {
 			</div>
 			<Brand />
 			<WhatGPT3 />
-			<Feature />
+			<Features />
 			<Possibility />
 			<CTA />
 			<Blog />
